@@ -1,0 +1,6 @@
+1. Make all strings consts and add in translation files
+2. Make TextStyles in one file and reuse them
+3. Make colors in one file and reuse them
+4. Test for IOS environment
+5. Make sneaker animated when clicking on card (not in sneaker itself)
+6. Change animation effect when scrolling horizontally in Page View
